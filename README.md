@@ -1,5 +1,12 @@
 # YouTube Trending Data Engineering Project
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-green)
+![YouTube API](https://img.shields.io/badge/API-YouTube-red)
+
 ## Project Overview
 
 This project is an end-to-end Data Engineering and Analytics pipeline built using YouTube Trending Video data collected from the YouTube Data API.
